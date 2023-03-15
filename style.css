@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(60, 182, 60, 0.575);
+    padding: auto;
+}
+h1{
+    background-color: rgb(240, 4, 4);
+    color: white;
+    position: relative;
+    left: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    width: 90%;
+    text-align: center;
+    margin-top: 10px;
+}
+blockquote{
+    float: right;
+    width: 340px;
+    line-break: loose;
+    font-size: 130%;
+    font-style: italic;
+    font-family: Georgia, Times, serif;
+    margin: 5px 0px 10px 10px;
+    padding: 10px;
+    border-top: 1px solid #9508f3;
+    border-bottom: 1px solid #9508f3;
+    color: rgb(3, 8, 71);
+}
+div {
+    border: 1px solid #0a0a0a;
+}
+p{
+    line-break: strict;
+    color: rgb(3, 8, 71);
+    float: left;
+    margin: 10px 10px 10px 10px;
+    padding: 6px;
+    width: 500px;
+    clear: both;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid #9508f3;
+    border-top: 1px solid #9508f3;
+
+}
+.clear{
+    line-break: strict;
+    color: rgb(3, 8, 71);
+    float: right;
+    margin: 10px 10px 10px 10px;
+    padding: 6px;
+    width: 500px;
+    clear:right;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid #9508f3;
+    border-top: 1px solid #9508f3;
+    background-color: rgba(57, 187, 187, 0.479);
+}
